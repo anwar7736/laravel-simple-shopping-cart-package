@@ -1,0 +1,19 @@
+{
+    "name": "anwar7736/shoppingcart",
+    "description": "Make a simple shopping cart package by using laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anwar\\ShoppingCart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anwar7736",
+            "email": "anwarhossain7736@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
